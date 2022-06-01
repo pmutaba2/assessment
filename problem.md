@@ -14,7 +14,7 @@ Download the flag {{url_for("theflag", "here")}}.
 
 ## Hints
 
-- Download the file and open it in any text editor of your wishes, for instance, gedit or nano.
+- Download the file and open it in your preferred text editor, such as gedit or nano. Take a look at the provided text message and develop a program to reverse it as well as hash it to retrieve the true flag.
 
 ## Solution Overview
 
